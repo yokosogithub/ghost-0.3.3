@@ -24,6 +24,9 @@ Node.js & NPM
 
 5.Enjoy it!!
 
+### Features
+1.
+
 ### Contribute
 HBS:
 1.Solid header(/partials/header.hbs) and footer(/partials/footer.hbs)
