@@ -1,5 +1,5 @@
 # [Rabo's Blog](http://rabo.nichijou.im/)
-Rabo's Blog based on Ghost[https://ghost.org/] platform.Thanks the community develped this awesome blog system.
+Rabo's Blog based on [Ghost](https://ghost.org/) platform.Thanks the community develped this awesome blog system.
 
 Ghost is a free, open, simple blogging platform that's available to anyone who wants to use it. Lovingly created and maintained by [John O'Nolan](http://twitter.com/JohnONolan) + [Hannah Wolfe](http://twitter.com/ErisDS) + an amazing group of [contributors](https://github.com/TryGhost/Ghost/contributors).
 
